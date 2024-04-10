@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "932342565352",
+    "project_id": "kilele-health",
+    "storage_bucket": "kilele-health.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932342565352:android:07480bd0d9d55aba0e3c5d",
+        "android_client_info": {
+          "package_name": "org.kilele.kilele_health"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7mI7VXsUec8EuGQxVdiEdx5YuH8kXLno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
